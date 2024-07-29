@@ -12,7 +12,7 @@
 ```yaml
 dependencies:
   sse:
-    github: y2k2mt/sse.cr
+    github: zhuangbiaowei/sse.cr
 ```
 
 2. Run `shards install`

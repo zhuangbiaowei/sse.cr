@@ -4,7 +4,7 @@ version: 0.11.0
 crystal: ~> 1.0
 
 authors:
-  - y2k2mt <y2.k2mt@gmail.com>
+  - zhuangbiaowei <zhuangbiaowei@gmail.com>
 
 description: |
   A Crystal shard for Server-Sent Events
